@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSCPsychTest", "GSCPsychTest.csproj", "{EDFEB72A-208B-42C2-9C2E-4D3DDA965696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFEB72A-208B-42C2-9C2E-4D3DDA965696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFEB72A-208B-42C2-9C2E-4D3DDA965696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFEB72A-208B-42C2-9C2E-4D3DDA965696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFEB72A-208B-42C2-9C2E-4D3DDA965696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
